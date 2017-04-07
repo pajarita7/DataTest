@@ -3,3 +3,5 @@ Latitud,Longitud,Hover Text,Size,Colour
 52.535053,13.390189,Berlin Wall Germany,0.5,green
 50.535053,14.390189,Berlin Wall Germany,0.5,yellow
 50.535053,14.390189,Berlin Wall Germany,0.5,black
+54.979186,-1.614661,Newcastle University,0.7,blue
+52.535053,13.390189,Berlin Wall Germany,0.5,green

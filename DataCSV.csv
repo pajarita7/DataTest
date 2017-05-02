@@ -1,5 +1,19 @@
-Latitud,Longitud,Hover Text,Size,Colour
-54.979186,-1.614661,Newcastle University,0.7,blue
-52.535053,13.390189,Berlin Wall Germany,0.5,green
-52.535053,13.390189,Berlin Wall Germany,0.5,green
-52.535053,13.390189,Berlin Wall Germany,0.5,green
+Station_Name,	Country,	Latitude,	Longitude,	Colour
+ADAR00GBR,	United Kingdom,	52.7892,	-4.7413,	blue
+ARIS00GBR,	United Kingdom,	56.9095,	-5.8495,	blue
+CHIO00GBR,	United Kingdom,	51.1489,	-1.4383,	blue
+DARE00GBR,	United Kingdom,	53.3448,	-2.6405,	blue
+EDIN00GBR,	United Kingdom,	55.9247,	-3.2948,	blue
+ENIS00GBR,	United Kingdom,	54.3954,	-7.6449,	blue
+FOYL00GBR,	United Kingdom,	54.9837,	-7.3366,	blue
+HERS00GBR,	United Kingdom,	50.8673,	0.3362,		blue
+HERT00GBR,	United Kingdom,	50.8674,	0.3344,		blue
+INVR00GBR,	United Kingdom,	57.4862,	-4.2193,	blue
+LERI00GBR,	United Kingdom,	60.1383,	-1.1837,	blue
+MORP00GBR,	United Kingdom,	55.2127,	-1.6855,	blue
+NEWL00GBR,	United Kingdom,	50.103,		-5.5428,	blue
+PMTH00GBR,	United Kingdom,	50.4164,	-4.1262,	blue
+SCIL00GBR,	United Kingdom,	49.9145,	-6.2958,	blue
+SHOE00GBR,	United Kingdom,	51.5547,	0.827,		blue
+SNEO00GBR,	United Kingdom,	52.1853,	-0.1125,	blue
+SWAS00GBR,	United Kingdom,	51.5655,	-3.9818,	blue
